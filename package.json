@@ -1,0 +1,23 @@
+{
+  "name": "3rd-task",
+  "version": "1.0.0",
+  "description": "3rd task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhukovvlad/modules_3rd_task.git"
+  },
+  "author": "zhukovvlad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhukovvlad/modules_3rd_task/issues"
+  },
+  "homepage": "https://github.com/zhukovvlad/modules_3rd_task#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
